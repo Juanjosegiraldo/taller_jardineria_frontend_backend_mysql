@@ -43,3 +43,6 @@ Open your browser at the URL provided by Vite (usually `http://localhost:5173`).
 
 ## Note
 Currently, this tool is restricted to `SELECT` operations for security and demonstration purposes.
+
+TEAM MEMBERS: PAULA ANDREA RODRIGUEZ
+              JUAN JOSE GIRALDO MUÑOZ
